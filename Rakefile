@@ -9,3 +9,6 @@ task :console do
   # Open a Pry session
   Pry.start
 end
+
+
+# db/migrate/01_create_students.rb
